@@ -1,0 +1,7 @@
+{
+  "name": "EcoLumina PWA",
+  "description": "AI-powered waste upcycling assistant that identifies objects and suggests DIY projects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
